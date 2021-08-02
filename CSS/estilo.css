@@ -1,0 +1,78 @@
+* {
+    padding: 0;
+    margin: 0;
+    
+    
+}
+
+body {
+    background: url(../Img/bk.jpg) no-repeat;
+    background-size: cover;
+   
+}
+.image{
+    margin-top:50px;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+.principal{
+    background-color: rgba(0,0,0,0.7);
+    height: 500px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.conteudo{
+    margin-top: 10px;
+    color: white;
+    margin-left:40px;
+    margin-right: 40px;
+    background-color: rgba(0,0,0,0.8);
+}
+.col-lg-4{
+    
+}
+.conteudo .row img{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.jumbotron-heading{
+    color: white;
+}
+
+.texto{
+    color: white;
+    text-transform: inherit;
+}
+
+.main-content{
+    margin-top: 40px;
+    margin-left: 350px;
+    margin-right: 100px;
+    width: 50%;
+    height: 400px;
+    background-color: rgba(0,0,0,0.8);
+    color: white;
+}
+
+.contato{
+    margin-top: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    text-align: center;
+}
+
+
+
+.cont{
+    color: white;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cont:hover{
+    background-color: ;
+    text-decoration: yellowgreen;
+    color: white;
+}
